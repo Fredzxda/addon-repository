@@ -31,7 +31,7 @@
     "HA_PREFIX": "str"
   },
   "legacy": true,
-  "image": "smeagolworms4/aldes2mqtt",
+  "image": "Fredzxda/aldes2mqtt",
   "environment": {
   }
 }
