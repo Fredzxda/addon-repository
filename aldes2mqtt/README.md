@@ -5,8 +5,8 @@
 
 An implementation of wrapper Aldes API to MQTT for home assitant
 
-![MQTT](https://raw.githubusercontent.com/GollumDom/addon-repository/master/aldes2mqtt/MQTT.gif)
+![MQTT](https://raw.githubusercontent.com/Fredzxda/addon-repository/master/aldes2mqtt/MQTT.gif)
 
-![HA](https://raw.githubusercontent.com/GollumDom/addon-repository/master/aldes2mqtt/HA.gif)
+![HA](https://raw.githubusercontent.com/Fredzxda/addon-repository/master/aldes2mqtt/HA.gif)
 
-Original Github : https://github.com/Smeagolworms4/aldes2mqtt
+Original Github : https://github.com/Fredzxda/aldes2mqtt
